@@ -1,7 +1,7 @@
 package main
 
 import (
-	chord "dht/dht"
+	chord "dht/chord"
 	"os"
 )
 
